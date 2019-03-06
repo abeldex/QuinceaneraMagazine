@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "813758118366",
+    "firebase_url": "https://quincemagazine-9866a.firebaseio.com",
+    "project_id": "quincemagazine-9866a",
+    "storage_bucket": "quincemagazine-9866a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813758118366:android:58c01d82ad865db1",
+        "android_client_info": {
+          "package_name": "com.visionsoft.quinceanera.magazine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813758118366-ap3g5jr5q0qvqpe8hljcqj0pga4amarn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.visionsoft.quinceanera.magazine",
+            "certificate_hash": "e52fcf2e05103bd986ec6140c3540f6d14f61fc1"
+          }
+        },
+        {
+          "client_id": "813758118366-c57ue5smfhd1m14iaqjh6qvs3i1dr613.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcoV9WBd49hzY_gCgx_e1IJTYwn7Nrykc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813758118366-c57ue5smfhd1m14iaqjh6qvs3i1dr613.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

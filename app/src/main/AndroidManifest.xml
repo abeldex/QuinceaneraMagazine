@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.visionsoft.quinceanera.magazine">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+
+    <application
+        android:name="com.visionsoft.quinceanera.magazine.Util.YouApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/icon"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="com.visionsoft.quinceanera.magazine.Activity.SplashScreen"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.visionsoft.quinceanera.magazine.Activity.Login" />
+        <activity android:name="com.visionsoft.quinceanera.magazine.Activity.Register" />
+        <activity android:name="com.visionsoft.quinceanera.magazine.Activity.AboutUs" />
+        <activity android:name="com.visionsoft.quinceanera.magazine.Activity.PrivacyPolice" />
+        <activity android:name="com.visionsoft.quinceanera.magazine.Activity.Profile" />
+        <activity android:name="com.visionsoft.quinceanera.magazine.Activity.EditProfile" />
+        <activity android:name="com.visionsoft.quinceanera.magazine.Activity.SCDetail" />
+        <activity android:name="com.visionsoft.quinceanera.magazine.Activity.SubCategory" />
+        <activity android:name="com.visionsoft.quinceanera.magazine.Activity.AllComment" />
+        <activity android:name="com.visionsoft.quinceanera.magazine.Activity.MainActivity" />
+        <activity android:name="com.visionsoft.quinceanera.magazine.Activity.FavouriteDetail" />
+        <activity android:name="com.visionsoft.quinceanera.magazine.Activity.RelatedBook" />
+        <activity android:name="com.visionsoft.quinceanera.magazine.Activity.Search" />
+        <activity android:name="com.visionsoft.quinceanera.magazine.Activity.PDFShow"/>
+        <activity
+            android:name="com.folioreader.ui.folio.activity.FolioActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:configChanges="orientation|screenSize">
+        </activity>
+    </application>
+
+</manifest>

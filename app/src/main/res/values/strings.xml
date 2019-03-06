@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">Quinceanera Magazine</string>
+    <string name="app_sub_name">Subscripciones</string>
+
+    <string name="navigation_drawer_open">Abrir Menu</string>
+    <string name="navigation_drawer_close">Cerrar Menu</string>
+
+    <string name="isRTL">false</string>
+
+    <string name="admob_banner_id">ca-app-pub-2841637345349209~6359711173</string>
+    <string name="admob_interstitial_id">ca-app-pub-2841637345349209/4855057811</string>
+
+    <string name="play_more_app">https://play.google.com/store/search?q=movie</string>
+
+    <string name="action_settings">Configuracion</string>
+    <string name="home">Inicio</string>
+    <string name="latest">Ultimas</string>
+    <string name="category">Categoria</string>
+    <string name="author">Autor</string>
+    <string name="download">Descargas</string>
+    <string name="favorites">Favoritos</string>
+    <string name="rate_app">Calificar App</string>
+    <string name="more_app">Mas Apps</string>
+    <string name="share_app">Compartir App</string>
+    <string name="about_us">Acerca de</string>
+    <string name="privacy_policy">Politica de Privacidad</string>
+    <string name="toolbar_Title_AllComment">Todos los Comentarios</string>
+
+    <string name="Let_me_recommend_you_this_application">Déjame recomendarte esta aplicación.</string>
+    <string name="internet_connection">Conexión a internet no disponible</string>
+    <string name="internet_connection_message">Conexión a Internet no disponible. Verifique su conexión a internet</string>
+    <string name="Please_click_BACK_again_to_exit">Por favor haga clic en VOLVER nuevamente para salir</string>
+    <string name="cannot_use_save_permission">No se puede usar Share futcher</string>
+    <string name="exit">Salir</string>
+
+    <string name="no_data">Sin datos</string>
+    <string name="main_activity">Actividad Principal Quinceanera Magazine</string>
+
+    <!--<about_us.xml string>-->
+    <string name="app_name_about_us">Acerca de</string>
+    <string name="about_us_version">Version</string>
+    <string name="about_us_version_text">1.0.0</string>
+    <string name="about_us_author">Autor</string>
+    <string name="about_us_Company">Creadores</string>
+    <string name="about_us_company_name">VisionSoft</string>
+    <string name="about_us_email">Email</string>
+    <string name="about_us_email_text">abelcota@uas.edu.mx</string>
+    <string name="about_us_website">SitioWeb</string>
+    <string name="about_us_website_text">www.visionsoft.com.mx</string>
+    <string name="about_us_contact">Contacto</string>
+    <string name="about_us_contact_text">+55 6675386830</string>
+    <string name="about_us_about">Acerca de</string>
+    <!--<about_us.xml string>-->
+
+    <string name="lorem">
+        ...
+    </string>
+
+    <string name="add_to_favourite">Añadir a Favoritos</string>
+    <string name="remove_to_favourite">Eliminar de favoritos</string>
+
+    <string name="logout">Cerrar sesión</string>
+    <string name="email">Email</string>
+    <string name="remember_me">Recuérdame</string>
+    <string name="button_text_login">INICIAR SESIÓN</string>
+    <string name="button_text_register">REGISTRO</string>
+    <string name="button_text_forgot_password">SE TE OLVIDÓ TU CONTRASEÑA ?</string>
+    <string name="already_have_an_account_yet">Ya tienes una cuenta ?</string>
+    <string name="register_login_text">Iniciar sesión</string>
+    <string name="submit">Enviar</string>
+    <string name="password">Contraseña</string>
+    <string name="please_enter_email">Por favor ingrese su email</string>
+    <string name="please_enter_password">Por favor, ingrese contraseña</string>
+    <string name="please_enter_confirm_password">Por favor ingrese confirmar contraseña</string>
+    <string name="name">Nombre</string>
+    <string name="phoneNo">Telefono</string>
+    <string name="please_enter_phone">Por favor ingrese el número de teléfono</string>
+    <string name="please_enter_name">por favor ingrese el nombre</string>
+    <string name="latest_book">Última Revista</string>
+    <string name="latest_youve_recently_read">Revistas que se han añadido recientemente</string>
+    <string name="button_viewall_home">Ver Todo</string>
+    <string name="top_100_for_your_autor">Top 100 por su Autor</string>
+    <string name="popular_books">Revistas populares</string>
+    <string name="stories_youve_recently_read">Revistas mas leidas</string>
+    <string name="view_details">Ver detalles</string>
+    <string name="view">Ver</string>
+    <string name="text">4.5</string>
+    <string name="profile">Perfil</string>
+    <string name="name_profile">Nombre :-</string>
+    <string name="email_profile">Email :-</string>
+    <string name="password_profile">Contraseña :-</string>
+    <string name="confirm_password_profile">Confirmar contraseña :-</string>
+    <string name="phone_profile">Telefono :-</string>
+    <string name="edit_profile">Editar perfil</string>
+    <string name="save_profile">Exito Guardar perfil</string>
+    <string name="button_text_skip">Omitir</string>
+    <string name="view_number">125K</string>
+    <string name="password_and_confirmpassword_does_not_match">La contraseña y la contraseña de confirmación no coinciden</string>
+    <string name="ok">ok</string>
+    <string name="date">12 Jan 2018</string>
+    <string name="description">Descripción :-</string>
+    <string name="related_books">Revistas relacionadas</string>
+    <string name="stories_youve_related_read_books">Historias que has relacionado leer revistas</string>
+    <string name="button_view_all_scd">Ver todo</string>
+    <string name="comments">Comentarios:-</string>
+    <string name="login_failed">Error de inicio de sesion</string>
+    <string name="items_string_category_adapter">artículos</string>
+    <string name="textView_forget_password">Contraseña olvidada</string>
+    <string name="not_found_relatedBook">No encontrado revista relacionada</string>
+    <string name="no_comment_found">No se encontró ningún comentario</string>
+    <string name="please_install_browser">Por favor instale google drive</string>
+    <string name="please_install_browser_else_pdf_viewer">Por favor, instale google drive entonces pdf viewer</string>
+    <string name="downloading">Descargando</string>
+    <string name="pdf_reader_notinstall">Pdf Reader no se instala</string>
+    <string name="delete">borrar</string>
+    <string name="menu_favorite">Favorita</string>
+    <string name="share">Compartir</string>
+    <string name="read_book">Leer revista</string>
+    <string name="download_book">Descargar Revista</string>
+    <string name="you_have_allready_download_book">Ya has descargado esta revista</string>
+    <string name="Today">Hoy</string>
+    <string name="raing">Clasificación.....</string>
+    <string name="thanks_for_rating">Gracias por la calificación</string>
+    <string name="you_have_not_login">Usted no ha iniciado sesión</string>
+    <string name="please_enter_comment">Por favor ingrese un comentario</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="iteam">Iteam</string>
+    <string name="loading">Cargando..</string>
+
+</resources>
